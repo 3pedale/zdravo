@@ -1,3 +1,3 @@
 # zdravo
 
-Probni repozitorijum za vezbanje
+Probni repozitorijum za postavke.
